@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vacation App</string>
+    <string name="welcome_message">Welcome to the main screen</string>
+    <string name="order">Order</string>
+    <string name="lodging_cost">Lodging cost</string>
+    <string name="transport_cost">Transport cost</string>
+    <string name="comments">Comments</string>
+    <string name="photo_uri">Photo URI</string>
+    <string name="no_places_message">You have no places added. Add one!</string>
+    <string name="add_place_button">Add Place</string>
+</resources>
